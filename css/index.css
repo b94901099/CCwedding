@@ -1,0 +1,27 @@
+.container {
+	position: relative;
+	text-align: center;
+	color: black;
+}
+
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+.pleaseJoinText {
+	font-family: 'Pacifico', cursive;
+	font-weight: 400;
+	line-height: 1.4;
+	color: rgb(69, 64, 60);
+}
+
+.pleaseJoinText .ch {
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-weight: 400;
+	line-height: 1.4;
+	color: rgb(69, 64, 60);
+}
