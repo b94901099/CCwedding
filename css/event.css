@@ -1,15 +1,19 @@
-article.card {
-    border: none;
-    border-bottom: 1px solid rgba(0,0,0,.1);
-    border-radius: 0;
+.location-en {
+	/*font-family: 'Pacifico', cursive;*/
+	font-weight: 400;
+	line-height: 1.4;
+	color: rgb(69, 64, 60);
 }
 
-article.card.mb-4 {
-    margin-bottom: 1.5rem;
+.location-ch {
+	/*font-family: 'ZCOOL QingKe HuangYou', cursive;*/
+	font-weight: 400;
+	line-height: 1.4;
+	color: rgb(69, 64, 60);
 }
 
-article.card .card-header {
-    background-color: #fff;
+h1 {
+	margin-bottom: 1.5rem;
 }
 
 .container.divider{

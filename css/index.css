@@ -1,3 +1,25 @@
+.container-fluid.headline {
+	background-size: 1600px auto,auto;
+	background-position: center top,left top;
+    padding: 100px 0 0 0;
+	background-image: url(https://d3t14gfu9ehll4.cloudfront.net/themes/876e2753-f37e-4d0c-b453-3c74c8b171c4/undefined_a3gEcHZ.png),none;
+}
+
+.container-fluid.divider{
+    height: 50px;
+    background-image: url(https://d3t14gfu9ehll4.cloudfront.net/themes/876e2753-f37e-4d0c-b453-3c74c8b171c4/root_LargeDivider_IcEV0eY.png);
+    background-size: auto 50px;
+    background-position: center center;
+    background-repeat: repeat-x;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.headlineText {
+	margin-top: 2rem;
+	font-family: DFKai-sb, cursive;
+}
+
 .container {
 	position: relative;
 	text-align: center;
@@ -13,14 +35,15 @@
 
 
 .pleaseJoinText {
-	font-family: 'Pacifico', cursive;
+	font-family: DFKai-sb, cursive;
 	font-weight: 400;
 	line-height: 1.4;
 	color: rgb(69, 64, 60);
+	margin-top: 2rem;
 }
 
 .pleaseJoinText .ch {
-	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-family: PMingLiU, cursive;
 	font-weight: 400;
 	line-height: 1.4;
 	color: rgb(69, 64, 60);

@@ -1,17 +1,3 @@
-article.card {
-    border: none;
-    border-bottom: 1px solid rgba(0,0,0,.1);
-    border-radius: 0;
-}
-
-article.card.mb-4 {
-    margin-bottom: 1.5rem;
-}
-
-article.card .card-header {
-    background-color: #fff;
-}
-
 .container.divider{
     height: 50px;
     background-image: url(https://d3t14gfu9ehll4.cloudfront.net/themes/876e2753-f37e-4d0c-b453-3c74c8b171c4/root_LargeDivider_IcEV0eY.png);
