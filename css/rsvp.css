@@ -7,3 +7,14 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+
+
+.googleform {
+    width: 300px;
+}
+
+@media (min-width: 768px) { 
+	.googleform {
+    	width: 640px;
+	}
+}
